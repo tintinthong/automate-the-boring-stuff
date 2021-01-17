@@ -1,0 +1,4 @@
+#+TITLE: Automate the Boring Stuff
+
+This repo is a copy of [[https://automatetheboringstuff.com/][automate the boring stuff in python]]. Except that we do it in Haskell.
+
